@@ -80,7 +80,6 @@ cd weatherapp
 mvn clean install
 mvn javafx:run
 
----
 ```
 
 ---
@@ -90,7 +89,6 @@ mvn javafx:run
 ```bash
 java -jar .\target\WeatherApp-1.0.jar
 
----
 ```
 
 ---
