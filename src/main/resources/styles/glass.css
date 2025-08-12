@@ -1,0 +1,17 @@
+.root {
+    -fx-font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+
+.label {
+    -fx-text-fill: white;
+}
+
+.list-view {
+    -fx-background-color: rgba(0,0,0,0.18);
+    -fx-border-radius: 8;
+    -fx-background-radius: 8;
+}
+
+.button {
+    -fx-font-weight: 600;
+}
